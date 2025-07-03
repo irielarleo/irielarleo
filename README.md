@@ -11,4 +11,4 @@ I'm currently looking for opportunities to contribute to meaningful data-driven 
 Beyond studying and projects, I also enjoy going out and taking casual trips 🚗, experimenting in the kitchen 🍳 and expressing myself through art 🎨, whether it’s making crafts ✂️ or spontaneous sketches ✏️.
 
 Let’s connect!  
-[<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="24" height="24" style="vertical-align: middle;"/>](https://www.linkedin.com/in/irielaureleo)
+[<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="29" height="29" style="vertical-align: middle;"/>](https://www.linkedin.com/in/irielaureleo)
