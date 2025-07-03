@@ -2,9 +2,9 @@
 
 I'm Iriel, a data enthusiast with a background in Computer Science and a recent graduate from the Hacktiv8 Data Science Bootcamp.
 
-I hold a Bachelor of Engineering in Computer Science and have built a strong foundation in data processing, statistical analysis, and machine learning. During the intensive bootcamp at Hacktiv8, I gained hands-on experience through real-world projects including data cleaning, exploratory data analysis (EDA), building predictive models and deploying them.
+I hold a Bachelor of Engineering in Computer Science and recently completed the Hacktiv8 Data Science Bootcamp, gaining practical experience in data cleaning, analysis, modeling, and deployment.
 
-I’m skilled in Python, SQL, and PostgreSQL and I love transforming raw data into actionable insights. Whether it’s identifying patterns, solving problems, or building end-to-end data solutions, I’m passionate about using data to drive impact.
+Skilled in Python, SQL, and PostgreSQL, I enjoy turning data into insights that solve problems and drive impact.
 
 I'm currently looking for opportunities to contribute to meaningful data-driven projects and grow within a dynamic and collaborative environment.
 
