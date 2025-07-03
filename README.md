@@ -8,7 +8,7 @@ Skilled in Python, SQL, and PostgreSQL, I enjoy turning data into insights that 
 
 I'm currently looking for opportunities to contribute to meaningful data-driven projects and grow within a dynamic and collaborative environment.
 
-Beyond studying and projects, I also enjoy going out and taking casual trips 🚗, experimenting in the kitchen 🍳 and expressing myself through art 🎨, whether it’s making crafts ✂️ or spontaneous sketches ✏️.
+Beyond studying and projects, I also enjoy going out and taking casual trips 🚗, trying new recipes 🍳 and expressing myself through art 🎨, whether it’s making crafts ✂️ or spontaneous sketches ✏️.
 
 #### Let’s connect!  
 
