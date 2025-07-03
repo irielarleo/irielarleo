@@ -12,4 +12,4 @@ Beyond studying and projects, I also enjoy going out and taking casual trips ðŸš
 
 Letâ€™s connect!  
 
-[<img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" width="29" height="29" style="vertical-align: middle;"/>](https://www.linkedin.com/in/irielaureleo)
+[<img src="[https://cdn-icons-png.flaticon.com/24/174/174857.png](https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg)" alt="LinkedIn" width="29" height="29" style="vertical-align: middle;"/>](https://www.linkedin.com/in/irielaureleo)
